@@ -42,7 +42,7 @@ export default function Contact() {
             <Mail className="info-icon" size={22} />
             <div>
               <strong>Email Me</strong>
-              <p>Leevy@ironcoding.com</p>
+              <p>Leevy@Leevy.com</p>
             </div>
           </div>
 

@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p>
-        © {new Date().getFullYear()} Iron Coding. Built with{" "}
+        © {new Date().getFullYear()} Leevy Coding. Built with{" "}
         <Heart size={14} className="heart-icon" /> by Leevy.
       </p>
       <div className="social-links">
